@@ -83,7 +83,7 @@ function animateText() {
   textIndex++;
   if (textIndex > 10) {
     clearInterval(interval);
-    text.innerText = "Temukan Keseimbangan Tubuh anda Agar tetap sehat";
+    text.innerText = "Temukan Keseimbangan Tubuh anda";
   }
 }
 
