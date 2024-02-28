@@ -70,6 +70,7 @@ function calculateBMI() {
     category = "Obesity";
   }
 
+  // Animasi text
   document.getElementById("result").innerHTML += "<br>Kategori: " + category;
 }
 
